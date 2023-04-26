@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Activity project\bin\Debug\Activity project.exe.config
+C:\Users\User\Documents\Activity project\bin\Debug\Activity project.exe
+C:\Users\User\Documents\Activity project\bin\Debug\Activity project.pdb
+C:\Users\User\Documents\Activity project\obj\Debug\Activity project.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Activity project\obj\Debug\Activity project.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\Activity project\obj\Debug\Activity project.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Activity project\obj\Debug\Activity project.exe
+C:\Users\User\Documents\Activity project\obj\Debug\Activity project.pdb
